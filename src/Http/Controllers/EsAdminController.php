@@ -1,6 +1,6 @@
 <?php namespace MkiLabs\Espresso\Http\Controllers;
 
-use App\Http\Controllers\Controller;
+use Illuminate\Routing\Controller;
 use Espresso;
 
 class EsAdminController extends Controller
