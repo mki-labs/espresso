@@ -1,0 +1,19 @@
+{
+    "name": "mki-labs/espresso",
+    "description": "Laravel cms package",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "edo aria",
+            "email": "edo.aria.ferdian@gmail.com"
+        },
+        {
+            "name": "ronggur hutasuhut",
+            "email": "ronggur.mh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4"
+    }
+}
