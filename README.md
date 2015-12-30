@@ -15,3 +15,9 @@ add
 ```
 
 to your config app aliases
+
+Try running
+
+```
+http://yourdomain.xyz/es-admin
+```
